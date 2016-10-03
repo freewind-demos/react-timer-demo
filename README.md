@@ -1,7 +1,7 @@
-React Hello World Demo
+React Timer Demo
 ======================
 
-Just say hello from react.
+Show a timer
 
 ```
 npm install
